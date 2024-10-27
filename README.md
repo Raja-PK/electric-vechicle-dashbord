@@ -9,8 +9,10 @@ Dataset The Electric Vehicle Population dataset is available in the Electric Veh
 Note: We've reduced the dataset in the repository to keep the data size small in the frontend bundle.
 
 Tasks Dashboard Creation: Create a frontend dashboard that presents key insights from the dataset. Design the dashboard to effectively communicate important metrics and visualizations. Include visual representations such as charts, graphs, or tables to showcase trends and relationships in the data. Ensure the dashboard is user-friendly and intuitive for exploring the dataset. Deployment: Deploy your frontend dashboard to a hosting platform of your choice. Make sure the dashboard is publicly accessible. Evaluation Criteria Your submission will be evaluated based on:
-
-Analytical Depth: The depth of your analysis and insights derived from the dataset. Dashboard Design: Clarity, aesthetics, and usability of the frontend dashboard. Insightfulness: Effectiveness in conveying key insights about electric vehicles. Submission Guidelines Fork this repository to your GitHub account. Complete your analysis and create the frontend dashboard. Deploy the dashboard to a hosting platform. Update this README.md file with the URL to your live dashboard. Repository Access: Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment: vedantp@mapup.ai ajayap@mapupa.ai divyanshs@mapup.ai Finally, please fill out the google form that you received via email to submit the assessment for review.
+r
+assessment: vedantp@mapup.ai
+ajayap@mapupa.ai
+divyanshs@mapup.ai
 =======
 # Getting Started with Create React App
 
